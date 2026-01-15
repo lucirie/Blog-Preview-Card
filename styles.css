@@ -39,8 +39,16 @@ body {
     margin: 10px 0;
 }
 
+.title {
+    font-size: 1.7rem;
+    font-weight: 900
+}
+
 .description {
-    color: #999999;
+    color: #777777;
+    font-weight: 500;
+    font-style: pretty;
+    margin: 10px 0;
 }
 
 /*
